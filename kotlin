@@ -1,0 +1,12 @@
+hr-analytics-powerbi-dashboard/
+│
+├── data/
+│   └── hr_data.xlsx
+│
+├── powerbi_dashboard/
+│   └── hr_dashboard.pbix
+│
+├── screenshots/
+│   └── hr_dashboard.png
+│
+└── README.md
